@@ -1,0 +1,13 @@
+                    Resource_Wood: 100
+                        Debt_Wood: 0
+                   Resource_Stone: 100
+                       Debt_Stone: 0
+                    Resource_Iron: 50
+                        Debt_Iron: 0
+                    Resource_Gold: 500
+                        Debt_Gold: 0
+                    Resource_Food: 300
+                        Debt_Food: 0
+                 Resource_Weapons: 30
+                     Debt_Weapons: 0
+                 Total_Population: 200

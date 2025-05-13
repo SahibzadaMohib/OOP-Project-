@@ -1,0 +1,8 @@
+                Amount Gold      : 1000
+                  INFLATION      : 0
+           PUBLIC SERVICE        : 0
+      CORRUPTION IN MARKET       : 10
+              MARKET CRASH       : 0
+                  LOAN SYSTEM    : 0
+                PEASONT TAX      : 5
+                NOBLE TAX        : 10

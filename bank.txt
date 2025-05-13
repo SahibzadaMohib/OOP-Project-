@@ -1,0 +1,5 @@
+                    Treasury: 1000
+                  LoanAmount: 0
+                InterestRate: 0.2
+                IsLoanActive: 0
+             CorruptOfficial: 0

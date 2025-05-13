@@ -1,0 +1,9 @@
+                 Candidate1 Name : Lamia
+                Candidate1 Style : Sword
+            Candidate1 Influence : 56
+                Candidate1 Alive : 1
+                 Candidate2 Name : Agala
+                Candidate2 Style : Strategy
+            Candidate2 Influence : 44
+                Candidate2 Alive : 1
+                    Current King : Agala

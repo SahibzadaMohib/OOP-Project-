@@ -1,0 +1,6 @@
+                TOTAL SOLDIERS   : 200
+            TRAINED SOLDIERS     : 80
+    FOOD SUPPLY FROM KINGDOM     : 160
+                    MORALE       : 82
+                ARMY GOLD        : 650
+            BLACKS MITH LEVEL    : 1

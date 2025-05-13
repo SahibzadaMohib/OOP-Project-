@@ -1,0 +1,12 @@
+                TOTAL POPULATION : 900
+                Amount Gold      : 850
+                TOTAL FOOD       : 540
+                STABILITY        : 80
+                PEASONTS         : 600
+                MERCHANTS        : 200
+                NOBLE PEOPLE     : 100
+                MILTARY          : 100
+                JOBS AVAILABLE   : 700
+                HEALTH LEVEL     : 60
+                PEASONT TAX      : 10
+                NOBLE TAX        : 5

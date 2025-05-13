@@ -1,0 +1,6 @@
+      Product_Iron: 12
+     Product_Wheat: 8
+      Product_Wood: 10
+     Product_Stone: 9
+       Player_hjkl: 100
+      Player_Mohib: 100
